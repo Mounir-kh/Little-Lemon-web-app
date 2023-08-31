@@ -1,0 +1,20 @@
+.partOneMain{
+    display: flex;
+    padding: 5%;
+    background-color: green;
+}
+
+.partOneMain section{
+    background-color: red;
+    padding: 2%;
+}
+
+.partOneMain .section:nth-of-type(2){
+    
+}
+
+.partOneMain img{
+     max-width: 100%;
+     min-width: 30%;
+     margin: 10px;
+}
