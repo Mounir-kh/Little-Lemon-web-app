@@ -1,0 +1,9 @@
+.header-part{
+    display: flex;
+    justify-content: center;
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgba(127, 127, 45, 0.16);
+}
+img{
+    padding: 1%;
+}

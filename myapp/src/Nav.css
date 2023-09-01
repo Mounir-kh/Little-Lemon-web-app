@@ -1,0 +1,19 @@
+.nav-list{
+    width: 50%;
+    margin-right: 4%;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1%;
+}
+
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(20, 20, 20);
+}
