@@ -1,9 +1,19 @@
-.header-part{
+.header_part{
     display: flex;
     justify-content: center;
     font-family:'Times New Roman', Times, serif;
     background-color: rgba(127, 127, 45, 0.16);
 }
-img{
-    padding: 1%;
+
+@media (max-width: 501px) {
+    .header_part{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin-bottom: 8%;
+    }
+    .header_part img{
+        width: 50%;
+    }
 }

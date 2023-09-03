@@ -23,3 +23,21 @@
     display: flex;
 }
 
+@media (max-width: 501px) {
+    .rating img{
+        width: 50%;
+        border-radius: 10px;
+        margin: 0;
+        margin-top: 4%;
+    }
+    .profile{
+        display: flex;
+        flex-direction: column;
+    }
+    .ratingStar{
+        display: flex;
+        height: 14%;
+        width: 40%;
+        margin-bottom: 5%;
+    }
+}
