@@ -2,18 +2,18 @@
     width: 50%;
     margin-right: 4%;
 }
-ul{
+.nav-list ul{
     display: flex;
     justify-content: space-between;
     padding-top: 1%;
 }
 
 
-li{
+.nav-list li{
     list-style: none;
 }
 
-a{
+.nav-list a{
     text-decoration: none;
     color: rgb(20, 20, 20);
 }

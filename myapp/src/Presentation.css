@@ -1,11 +1,14 @@
 .presentation_container{
     border-radius: 7px;
     display: flex;
-    padding: 5%;
+    padding: 2%;
     background-color: rgba(0, 128, 0, 0.096);
     text-align: left;
  
     margin-top:0.5%;
+}
+h1{
+    font-size: 40px;
 }
 .presentation_container button{
     float: left;
@@ -16,13 +19,11 @@
 }
 
 .presentation_container section{
-    padding: 2%;
+    width: 50%;
 }
 
 
 
 .presentation_container img{
-     max-width: 100%;
-     min-width: 30%;
-     margin: 10px;
+    width: 100%;
 }

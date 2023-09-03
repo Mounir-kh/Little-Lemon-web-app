@@ -7,7 +7,7 @@ function Specials(){
     return(
         <div className='specials_container'>
             <section>
-                <h1>Specials</h1>
+                <h2>Specials</h2>
                 <button>Online Menu</button>
             </section>
             <section>
